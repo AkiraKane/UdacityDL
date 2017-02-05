@@ -1,1 +1,2 @@
 Deep Learning Foundations Nano Degree
+1. Finished building Neural Network Model
